@@ -1,0 +1,60 @@
+{
+    "movies": [
+        {
+            "id": 13,
+            "title": "Duna",
+            "year": 2021,
+            "genre": "Ficção Científica",
+            "director": "Denis Villeneuve",
+            "rating": 8.0
+        },
+        {
+            "id": 14,
+            "title": "O Batman",
+            "year": 2022,
+            "genre": "Ação",
+            "director": "Matt Reeves",
+            "rating": 7.9
+        },
+        {
+            "id": 15,
+            "title": "Top Gun: Maverick",
+            "year": 2022,
+            "genre": "Ação",
+            "director": "Joseph Kosinski",
+            "rating": 8.4
+        },
+        {
+            "id": 16,
+            "title": "Bullet Train",
+            "year": 2022,
+            "genre": "Ação",
+            "director": "David Leitch",
+            "rating": 7.6
+        },
+        {
+            "id": 17,
+            "title": "Don't Worry Darling",
+            "year": 2022,
+            "genre": "Drama",
+            "director": "Olivia Wilde",
+            "rating": 6.6
+        },
+        {
+            "id": 18,
+            "title": "The Whale",
+            "year": 2022,
+            "genre": "Drama",
+            "director": "Darren Aronofsky",
+            "rating": 7.8
+        },
+        {
+            "id": 19,
+            "title": "Nope",
+            "year": 2022,
+            "genre": "Terror",
+            "director": "Jordan Peele",
+            "rating": 7.1
+        }
+    ]
+}
